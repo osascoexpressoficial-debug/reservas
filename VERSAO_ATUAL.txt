@@ -1,0 +1,6 @@
+RESERVA OE — BETA D3.6.3.8 — ACEITE COMPLETO
+
+Base: BETA D3.6.3.7
+Correção: substituído aceite resumido por termo completo no modal do parceiro.
+Incluído registro do texto integral aceito em cada comprovante.
+Regras operacionais preservadas: gestão blindada, parceiro separado da gestão, emergência somente gestão, reservas, líderes, motos, validações e backup.

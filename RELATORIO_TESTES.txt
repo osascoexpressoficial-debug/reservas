@@ -1,0 +1,7 @@
+RELATÓRIO DE TESTES — BETA D3.6.3.8
+
+1. JavaScript validado com node --check.
+2. Aceite digital agora exibe termo completo com 10 seções.
+3. Registro de aceite grava termoIntegralAceito, versão do termo, versão do app, data/hora, parceiro e userAgent.
+4. Fluxos principais não foram alterados.
+5. Drive ainda depende de endpoint Google Apps Script para arquivamento automático.
